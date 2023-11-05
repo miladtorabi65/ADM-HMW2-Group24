@@ -10,5 +10,5 @@ This is homework 2 of ADM class at Sapienza University done by Group24
 - This repository is comprised of homework 2 of ADM class at Sapienza University. 
 ##  Problem 1: Research questions [RQs]
 ##  Problem 2: Command Line Question (CLQ)
-##  AWS Question (AWSQ)
-##  Algorithmic Question (AQ)
+##  Problem 3: AWS Question (AWSQ)
+##  Problem 4: Algorithmic Question (AQ)
