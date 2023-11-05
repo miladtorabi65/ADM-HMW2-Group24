@@ -3,9 +3,11 @@ This is homework 2 of ADM class at Sapienza University done by Group24
 
 # ADM-HMW2-Group24
 # Members: 
-+1-Simay Caliskan simaycaliskan13@gmail.com
-+2-Milad Torabi miladtorabi65@gmail.com
-+3-Aadrish aadrish.cs@gmail.com
++ 1-Simay Caliskan simaycaliskan13@gmail.com
+
++ 2-Milad Torabi miladtorabi65@gmail.com
+
++ 3-Aadrish aadrish.cs@gmail.com
 # HacherRank profile: https://www.hackerrank.com/miladtorabi65
 - This repository is comprised of homework1 of my ADM class at Sapienza University, 
 - the homework was like a warm up to be engrossed with coding in python. 
